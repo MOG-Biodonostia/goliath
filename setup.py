@@ -40,7 +40,7 @@ setup(
     url="https://github.com/MOG-Biodonostia/goliath",
     packages=find_packages(),
     long_description=read('README.md'),
-    scripts=[''], #ADD SCRIPTS HERE scripts/*name*
+    scripts=['scripts/goliath'], #ADD SCRIPTS HERE scripts/*name*
     classifiers=[
         "Development Status :: 4 - Beta",
         "Topic :: Utilities",
